@@ -1,0 +1,14 @@
+E:\VisualStudio\Projetos\PrimeiroProjeto\TesteMatriz\bin\Debug\net8.0\TesteMatriz.exe
+E:\VisualStudio\Projetos\PrimeiroProjeto\TesteMatriz\bin\Debug\net8.0\TesteMatriz.deps.json
+E:\VisualStudio\Projetos\PrimeiroProjeto\TesteMatriz\bin\Debug\net8.0\TesteMatriz.runtimeconfig.json
+E:\VisualStudio\Projetos\PrimeiroProjeto\TesteMatriz\bin\Debug\net8.0\TesteMatriz.dll
+E:\VisualStudio\Projetos\PrimeiroProjeto\TesteMatriz\bin\Debug\net8.0\TesteMatriz.pdb
+E:\VisualStudio\Projetos\PrimeiroProjeto\TesteMatriz\obj\Debug\net8.0\TesteMatriz.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudio\Projetos\PrimeiroProjeto\TesteMatriz\obj\Debug\net8.0\TesteMatriz.AssemblyInfoInputs.cache
+E:\VisualStudio\Projetos\PrimeiroProjeto\TesteMatriz\obj\Debug\net8.0\TesteMatriz.AssemblyInfo.cs
+E:\VisualStudio\Projetos\PrimeiroProjeto\TesteMatriz\obj\Debug\net8.0\TesteMatriz.csproj.CoreCompileInputs.cache
+E:\VisualStudio\Projetos\PrimeiroProjeto\TesteMatriz\obj\Debug\net8.0\TesteMatriz.dll
+E:\VisualStudio\Projetos\PrimeiroProjeto\TesteMatriz\obj\Debug\net8.0\refint\TesteMatriz.dll
+E:\VisualStudio\Projetos\PrimeiroProjeto\TesteMatriz\obj\Debug\net8.0\TesteMatriz.pdb
+E:\VisualStudio\Projetos\PrimeiroProjeto\TesteMatriz\obj\Debug\net8.0\TesteMatriz.genruntimeconfig.cache
+E:\VisualStudio\Projetos\PrimeiroProjeto\TesteMatriz\obj\Debug\net8.0\ref\TesteMatriz.dll

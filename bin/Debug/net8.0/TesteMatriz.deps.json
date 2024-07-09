@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TesteMatriz/1.0.0": {
+        "runtime": {
+          "TesteMatriz.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TesteMatriz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
